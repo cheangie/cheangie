@@ -1,6 +1,6 @@
 ### Hi! I'm Angie!
 
-#### A Computer Science student at Northeastern University, with a passion for software, design, and learning!
+#### A Computer Science student at Northeastern University, with a passion for software, design, and learning.
 
 <!--
 **cheangie/cheangie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
