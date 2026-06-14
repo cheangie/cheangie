@@ -1,4 +1,4 @@
-### Hi! I'm Angie Che 👋
+### Hi! I'm Angie!
 
 #### A Computer Science student at Northeastern University, with a passion for software, design, and learning!
 
